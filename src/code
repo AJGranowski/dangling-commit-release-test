@@ -1,0 +1,8 @@
+#!/bin/sh
+cd "$(dirname "$0" | xargs realpath)"
+cd ..
+mkdir dist
+cd dist
+touch output1
+touch output2
+touch output3
