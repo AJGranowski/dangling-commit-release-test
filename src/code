@@ -4,6 +4,6 @@ cd ..
 rm -rf dist
 mkdir dist
 cd dist
-touch output7
-touch output8
-touch output9
+touch output10
+touch output11
+touch output12
